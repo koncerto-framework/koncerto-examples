@@ -1,0 +1,6 @@
+{
+    "_proxy": "https://cdn.jsdelivr.net/gh/koncerto-framework/koncerto-examples@latest/json-controller/%s/%s",
+    "_controller": [
+        "JsonController.php"
+    ]
+}
