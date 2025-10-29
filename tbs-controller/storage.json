@@ -1,0 +1,9 @@
+{
+    "_proxy": "https://cdn.jsdelivr.net/gh/koncerto-framework/koncerto-examples@latest/tbs-controller/%s/%s",
+    "_controller": [
+        "HomeController.php"
+    ],
+    "_templates": [
+        "home.tbs.html"
+    ]
+}
